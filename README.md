@@ -1,4 +1,6 @@
-![2021-02-28 (8)](https://user-images.githubusercontent.com/64213179/109420771-be896580-7a06-11eb-9a4a-95a1af2fdadc.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/64213179/109420771-be896580-7a06-11eb-9a4a-95a1af2fdadc.png">
+</p>
 
 # Tugas Kecil 2 IF2211 Strategi Algoritma Semester II tahun 2020/2021
 
