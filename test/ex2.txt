@@ -1,0 +1,6 @@
+Alstrukdat, Matdis, Algeo.
+Algeo, Matek, Fis.
+Matdis, Matek.
+Fis.
+Matek.
+OOP, Alstrukdat.
