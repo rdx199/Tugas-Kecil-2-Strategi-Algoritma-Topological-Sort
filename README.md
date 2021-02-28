@@ -11,7 +11,7 @@ Penyusunan Rencana Kuliah dengan Topological Sort <br/>
 
 Algoritma Decrease and conquer merupakan metode perancangan algoritma dengan mereduksi <br/>
 persoalan menjadi sub-problem yang lebih kecil, yang selanjutnya hanya memproses satu sub-problem saja <br/>
-Program ini adalah program penyusunan rencana kuliah yang diimplementasikan dengan menggunakan <br/>
+Program Matkul Counter adalah program penyusunan rencana kuliah yang diimplementasikan dengan menggunakan <br/>
 pendekatan Topological Sorting, yaitu salah satu pemanfaatan dari algoritma Decrease and Conquer <br/>
 
 ## Requirements
