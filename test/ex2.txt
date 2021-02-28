@@ -1,6 +1,22 @@
-Alstrukdat, Matdis, Algeo.
-Algeo, Matek, Fis.
-Matdis, Matek.
-Fis.
-Matek.
-OOP, Alstrukdat.
+A, B, C.
+B, D, E, F.
+C, F, G.
+D, H, I, J.
+E, J, K, L, M.
+F, M, N, O.
+G, O, P, V.
+H.
+I, Q, R, S.
+J, S.
+K, S.
+L, T.
+M.
+N, U, V.
+O.
+P.
+Q.
+R.
+S.
+T, U.
+U.
+V.
